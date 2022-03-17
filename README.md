@@ -1,0 +1,1 @@
+Project: **Magic Eight Ball**, following tasks from Codecademy.
